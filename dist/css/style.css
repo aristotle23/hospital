@@ -1,0 +1,13 @@
+/* CSS Document */
+.billminus{
+	background: #ccc;
+	border-radius:0px;
+	border: 1px solid #ccc;
+}
+#page-wrapper{
+	background: no-repeat url(../../img/fg11.jpg);
+	background-size:cover
+}
+.editreq{
+	text-overflow: ellipsis;
+}
